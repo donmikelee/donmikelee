@@ -2,6 +2,8 @@
 
 My name is Michał Górny, I have been learning web programming for a year to become a Front End developer.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Alt text](https://media.giphy.com/media/R9z50rPINd5ew/giphy.gif)
 
 > Fun fact: I like Tigers
