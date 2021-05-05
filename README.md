@@ -2,7 +2,7 @@
 
 My name is Michał Górny, I have been learning web programming for a year to become a Front End developer.
 
-![Alt text](https://media.giphy.com/media/R9z50rPINd5ew/giphy.gif)
+![Alt text](https://media.giphy.com/media/aOVFXRGUqu1hK/giphy.gif)
 
 > Fun fact: I like Tigers
 
