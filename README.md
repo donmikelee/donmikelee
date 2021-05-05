@@ -28,6 +28,8 @@ Technologies that I use on a daily basis:
 <a href="https://sass-lang.com" target="_blank"> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
 
+</br>
+
 **INTERMEDIATE** :star::star::star:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
