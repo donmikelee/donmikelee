@@ -37,7 +37,7 @@ TypeScript**
 I can use GIT / GIT BASH and NPM.
 #I want to cooperate!
 
-Jestem początkującym programistą bez komercialnego doświadczenia, daltego jestem otwarty na wszelki rodzaj współpracy. Mogę bezproblemowo podjąć staż bezpłatny. Zapewniam, że jestem ambitny i nie poddaję się łatwo gdy przychodzi rozwiązać jakiś skomplikowany problem.
+I am a novice programmer with no commercial experience, so I am open to any kind of cooperation. I can easily take up a free internship. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
 
 
 
