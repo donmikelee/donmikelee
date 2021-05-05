@@ -40,7 +40,7 @@ I can also create graphic design for FIGMA websites.
 
 # I want to cooperate!
 
-I am a novice programmer with no commercial experience, so I am open to any kind of cooperation. I can easily take up a free internship. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
+I am a novice programmer with no commercial experience, so I am open to any kind of cooperation. I can easily take up a **free internship**. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
 
 
 
