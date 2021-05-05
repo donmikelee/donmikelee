@@ -69,7 +69,10 @@ Technologies that I use on a daily basis:
 
 I am a novice programmer with no commercial experience, so I am open to any kind of cooperation. I can easily take up a **free internship**. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
 
-Contact: https://www.linkedin.com/in/micha%C5%82-g%C3%B3rny-5849b7193/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/micha%c5%82-g%c3%b3rny-5849b7193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-g%c3%b3rny-5849b7193/" height="30" width="40" /></a>
+</p>
 
 ![](https://www.testergier.pl/wp-content/uploads/2020/04/Journey-PS3.jpg)
 
