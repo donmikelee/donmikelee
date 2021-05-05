@@ -2,6 +2,8 @@
 
 My name is Michał Górny, I have been learning web programming for a year to become a Front End developer.
 
+![](http://gph.is/1lPFYIa)
+
 
 
 ## Studies and the beginnings of programming
