@@ -28,7 +28,7 @@ Technologies that I use on a daily basis:
 
 **INTERMEDIATE** :star::star::star:
 
-- JavaScript ![test image size](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png){:height="50%" width="50%"}
+- JavaScript
 - Bootstrap
 - GIT / GITBASH
 - NPM
