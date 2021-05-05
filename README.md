@@ -22,7 +22,7 @@ Technologies that I use on a daily basis:
 **ADVANCED** :star::star::star::star::star:
 
 - HTML
-- CSS
+- CSS / SCSS
 
 **INTERMEDIATE** :star::star::star:
 
