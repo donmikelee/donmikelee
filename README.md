@@ -69,9 +69,9 @@ Technologies that I use on a daily basis:
 
 I am a novice programmer with no commercial experience, so I am open to any kind of cooperation. I can easily take up a **free internship**. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/micha%c5%82-g%c3%b3rny-5849b7193/" target="blank"><img align="center" src="https://www.clipartmax.com/png/small/83-836235_ceo-and-member-of-board-of-directors-in-naghsh-avval-linkedin-icon.png" alt="https://www.linkedin.com/in/michał-górny-5849b7193/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/micha%c5%82-g%c3%b3rny-5849b7193/" target="blank"><img align="center" src="images/linkedin-icon.png" alt="https://www.linkedin.com/in/michał-górny-5849b7193/" height="60" width="60" /></a>
 </p>
 
 ![](https://www.testergier.pl/wp-content/uploads/2020/04/Journey-PS3.jpg)
