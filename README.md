@@ -10,7 +10,7 @@ I graduated from the Poznań University of Technology with the title of an engin
 
 I graduated from the Kodilla programming school, thanks to which I learned more about technologies and, above all, the methodology of a professional programmer's work.
 
-### My passion and plans for the future
+### Passion and plans for the future
 
 On a daily basis I am a huge fan of practicing sports, I especially enjoy playing team sports such as basketball, soccer and American football.
 In the future, I would like to combine these two worlds: programming and sports, to create applications useful for clubs, coaches and players.
