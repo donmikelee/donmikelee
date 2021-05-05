@@ -19,20 +19,20 @@ In the future, I would like to combine these two worlds: programming and sports,
 
 Technologies that I use on a daily basis:
 
-ADVANCED :star::star::star::star::star:
+**ADVANCED** :star::star::star::star::star:
 
-- **HTML**
-- **CSS**
+- HTML
+- CSS
 
-INTERMEDIATE :star::star::star:
+**INTERMEDIATE** :star::star::star:
 
-- **JavaScript**
-- **Bootstrap**
+- JavaScript
+- Bootstrap
 
-BEGINNER :star:
+**BEGINNER** :star:
 
-- **React**
-- **TypeScript**
+- React
+- TypeScript
 
 I can use GIT / GIT BASH and NPM.
 
