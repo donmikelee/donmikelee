@@ -1,4 +1,4 @@
-##Hello there!
+#Hello there!
 
 My name is Michał Górny, I have been learning web programming for a year to become a Front End developer.
 
