@@ -28,15 +28,15 @@ Technologies that I use on a daily basis:
 
 - JavaScript
 - Bootstrap
+- GIT / GITBASH
+- NPM
+- FIGMA
 
 **BEGINNER** :star:
 
 - React
 - TypeScript
 
-I can use GIT / GIT BASH and NPM.
-
-I can also create graphic design for FIGMA websites.
 
 # I want to cooperate!
 
