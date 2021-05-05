@@ -71,7 +71,7 @@ I am a novice programmer with no commercial experience, so I am open to any kind
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/micha%c5%82-g%c3%b3rny-5849b7193/" target="blank"><img align="center" src="images/linkedin-icon.png" alt="https://www.linkedin.com/in/michał-górny-5849b7193/" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/micha%c5%82-g%c3%b3rny-5849b7193/" target="blank"><img align="center" src="images/linkedin-icon2.png" alt="https://www.linkedin.com/in/michał-górny-5849b7193/" height="60" width="60" /></a>
 </p>
 
 ![](https://www.testergier.pl/wp-content/uploads/2020/04/Journey-PS3.jpg)
