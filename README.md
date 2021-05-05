@@ -21,18 +21,18 @@ Technologies that I use on a daily basis:
 
 ADVANCED :star::star::star::star::star:
 
-**HTML
-CSS**
+- **HTML**
+- **CSS**
 
 INTERMEDIATE :star::star::star:
 
-**JavaScript
-Bootstrap**
+- **JavaScript**
+- **Bootstrap**
 
 BEGINNER :star:
 
-**React
-TypeScript**
+- **React**
+- **TypeScript**
 
 I can use GIT / GIT BASH and NPM.
 
