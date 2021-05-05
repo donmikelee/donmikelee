@@ -4,7 +4,7 @@ My name is Michał Górny, I have been learning web programming for a year to be
 
 ![Alt text](https://media.giphy.com/media/R9z50rPINd5ew/giphy.gif)
 
-> And I like Tigers
+> Fun fact: I like Tigers
 
 
 
@@ -30,7 +30,7 @@ Technologies that I use on a daily basis:
 
 **INTERMEDIATE** :star::star::star:
 
-- JavaScript
+- JavaScript ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 - Bootstrap
 - GIT / GITBASH
 - NPM
