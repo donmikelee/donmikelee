@@ -28,7 +28,7 @@ Technologies that I use on a daily basis:
 
 **INTERMEDIATE** :star::star::star:
 
-- JavaScript
+- Miaumiau
 - Bootstrap
 - GIT / GITBASH
 - NPM
