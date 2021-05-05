@@ -24,12 +24,12 @@ Technologies that I use on a daily basis:
 **ADVANCED** :star::star::star::star::star:
 
 - HTML
-- CSS / SCSS
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> / SCSS
 
 **INTERMEDIATE** :star::star::star:
 
 - JavaScript
-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"        alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
+- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"        alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
 - GIT / GITBASH
 - NPM
 - Figma
