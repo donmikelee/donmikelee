@@ -29,6 +29,12 @@ Technologies that I use on a daily basis:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
 
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 **INTERMEDIATE** :star::star::star:
 
