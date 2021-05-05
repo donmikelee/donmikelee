@@ -74,6 +74,21 @@ I am a novice programmer with no commercial experience, so I am open to any kind
 <a href="https://www.linkedin.com/in/micha%c5%82-g%c3%b3rny-5849b7193/" target="blank"><img align="center" src="images/linkedin-icon2.png" alt="https://www.linkedin.com/in/michał-górny-5849b7193/" height="60" width="60" /></a>
 </p>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ![](https://www.testergier.pl/wp-content/uploads/2020/04/Journey-PS3.jpg)
 
 > Programming is nothing more than a journey with many obstacles and surprises. This journey is difficult and requires many sacrifices and it is up to you to reach the top of this mountain
