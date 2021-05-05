@@ -19,6 +19,8 @@ In the future, I would like to combine these two worlds: programming and sports,
 
 ## My technology stack
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donmikelee&show_icons=true&locale=en&layout=compact" alt="donmikelee" /></p>
+
 Technologies that I use on a daily basis:
 
 **ADVANCED** :star::star::star::star::star:
