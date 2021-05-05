@@ -4,6 +4,8 @@ My name is Michał Górny, I have been learning web programming for a year to be
 
 ![Alt text](https://media.giphy.com/media/R9z50rPINd5ew/giphy.gif)
 
+> And I like Tigers
+
 
 
 ## Studies and the beginnings of programming
