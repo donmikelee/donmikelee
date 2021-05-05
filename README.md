@@ -81,13 +81,6 @@ I am a novice programmer with no commercial experience, so I am open to any kind
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ![](https://www.testergier.pl/wp-content/uploads/2020/04/Journey-PS3.jpg)
 
