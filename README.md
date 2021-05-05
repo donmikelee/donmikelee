@@ -1,16 +1,49 @@
-### Hi there 👋
+##Hello there!
 
-<!--
-**donmikelee/donmikelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michał Górny, I have been learning web programming for a year to become a Front End developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#Studies and the beginnings of programming
+
+I graduated from the Poznań University of Technology with the title of an engineer in management, during the classes I learned programming and learned such languages ​​as HTML, CSS and SQL. However, it was only when I started to be privately interested in web technologies that learning became pleasant and absorbing for me. I was delighted with the amount of tools and options that can be used to awaken your creativity.
+
+I graduated from the Kodilla programming school, thanks to which I learned more about technologies and, above all, the methodology of a professional programmer's work.
+
+##My passion and plans for the future
+
+On a daily basis I am a huge fan of practicing sports, I especially enjoy playing team sports such as basketball, soccer and American football.
+In the future, I would like to combine these two worlds: programming and sports, to create applications useful for clubs, coaches and players.
+
+#My technology stack
+
+Technologies that I use on a daily basis:
+
+ADVANCED :star::star::star::star::star:
+
+**HTML
+CSS**
+
+INTERMEDIATE :star::star::star:
+
+**JavaScript
+Bootstrap**
+
+BEGINNER :star:
+
+**React
+TypeScript**
+
+I can use GIT / GIT BASH and NPM.
+#I want to cooperate!
+
+Jestem początkującym programistą bez komercialnego doświadczenia, daltego jestem otwarty na wszelki rodzaj współpracy. Mogę bezproblemowo podjąć staż bezpłatny. Zapewniam, że jestem ambitny i nie poddaję się łatwo gdy przychodzi rozwiązać jakiś skomplikowany problem.
+
+
+
+![](https://www.testergier.pl/wp-content/uploads/2020/04/Journey-PS3.jpg)
+
+> Programming is nothing more than a journey with many obstacles and surprises. This journey is difficult and requires many sacrifices and it is up to you to reach the top of this mountain
+
+
+
