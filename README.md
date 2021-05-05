@@ -30,7 +30,7 @@ Technologies that I use on a daily basis:
 - Bootstrap
 - GIT / GITBASH
 - NPM
-- FIGMA
+- Figma
 
 **BEGINNER** :star:
 
