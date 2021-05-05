@@ -57,6 +57,14 @@ Technologies that I use on a daily basis:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 # I want to cooperate!
 
 I am a novice programmer with no commercial experience, so I am open to any kind of cooperation. I can easily take up a **free internship**. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
