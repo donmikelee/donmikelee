@@ -42,8 +42,15 @@ Technologies that I use on a daily basis:
 <a href="https://getbootstrap.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"        alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank">
 
-- NPM
-  <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 **BEGINNER** :star:
 
