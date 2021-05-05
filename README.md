@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there! :wave::wave::wave:
 
 My name is Michał Górny, I have been learning web programming for a year to become a Front End developer.
 
@@ -6,13 +6,13 @@ My name is Michał Górny, I have been learning web programming for a year to be
 
 > Fun fact: I like Tigers
 
-## Studies and the beginnings of programming
+## Studies and the beginnings of programming :mortar_board::computer:
 
 I graduated from the Poznań University of Technology with the title of an engineer in management, during the classes I learned programming and learned such languages as HTML, CSS and SQL. However, it was only when I started to be privately interested in web technologies that learning became pleasant and absorbing for me. I was delighted with the amount of tools and options that can be used to awaken your creativity.
 
 I graduated from the Kodilla programming school, thanks to which I learned more about technologies and, above all, the methodology of a professional programmer's work.
 
-### Passion and plans for the future
+### Passion and plans for the future :basketball::soccer::football:
 
 On a daily basis I am a huge fan of practicing sports, I especially enjoy playing team sports such as basketball, soccer and American football.
 In the future, I would like to combine these two worlds: programming and sports, to create applications useful for clubs, coaches and players.
