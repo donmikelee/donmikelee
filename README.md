@@ -67,7 +67,7 @@ Technologies that I use on a daily basis:
 
 # I want to cooperate! :handshake:
 
-I am a novice programmer with no commercial experience, so I am open to any kind of cooperation. I can easily take up a **free internship**. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
+I am open to any kind of cooperation. I can easily take up a **free internship**. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
