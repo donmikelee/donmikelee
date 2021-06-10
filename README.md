@@ -52,11 +52,23 @@ Technologies that I use on a daily basis:
 </br>
 </br>
 
-**BEGINNER** :star:
+**BEGINNER** :star::star:
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+**ROOKIE** :star:
+
+
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+  
 </br>
 </br>
 </br>
