@@ -70,6 +70,16 @@ Technologies that I use on a daily basis:
 </br>
 </br>
 
+**TOOLS THAT I CAN USE**
+
+<ul>
+  <li>Webpack</li>
+  <li>Parcel</li>
+  <li>Vite</li>
+  <li>Gulp</li>
+  <li>Fork</li>
+</ul>
+
 # I want to cooperate! :handshake:
 
 I am open to work for Your company. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
