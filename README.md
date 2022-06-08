@@ -25,6 +25,8 @@ Technologies that I use on a daily basis:
 
 <br>
 
+**TOOLS I CAN USE**
+
 **ADVANCED** :star::star::star::star::star:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -71,8 +73,6 @@ Technologies that I use on a daily basis:
 </br>
 </br>
 </br>
-
-**TOOLS I CAN USE**
 
 # I want to cooperate! :handshake:
 
