@@ -25,8 +25,6 @@ Technologies that I use on a daily basis:
 
 <br>
 
-**TOOLS I CAN USE**
-
 **ADVANCED** :star::star::star::star::star:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -65,6 +63,7 @@ Technologies that I use on a daily basis:
 
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+<a/>
   
 </br>
 </br>
@@ -73,6 +72,17 @@ Technologies that I use on a daily basis:
 </br>
 </br>
 </br>
+
+**TOOLS I CAN USE**
+
+<ul>
+  <li>Webpack</li>
+  <li>Parcel</li>
+  <li>Gulp</li>
+  <li>Vite</li>
+  <li>GitBash</li>
+  <li>Fork</li>
+</ul>
 
 # I want to cooperate! :handshake:
 
