@@ -72,13 +72,13 @@ Technologies that I use on a daily basis:
 
 **TOOLS THAT I CAN USE**
 
-<p><ul>
-  <li>Webpack</li>
+<ul>
+  <li><p>Webpack</p></li>
   <li>Parcel</li>
   <li>Vite</li>
   <li>Gulp</li>
   <li>Fork</li>
-</ul></p>
+</ul>
 
 # I want to cooperate! :handshake:
 
