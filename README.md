@@ -73,7 +73,7 @@ Technologies that I use on a daily basis:
 </br>
 </br>
 
-**TOOLS I CAN USE**
+**TOOLS I CAN USE** 🛠
 
 <ul>
   <li>Webpack</li>
