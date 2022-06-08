@@ -12,6 +12,8 @@ I graduated from the Poznań University of Technology with the title of an engin
 
 I graduated from the Kodilla programming school, thanks to which I learned more about technologies and, above all, the methodology of a professional programmer's work.
 
+Actually I work as Junior Frontend Developer for DomData - a company that specializes in creating low code applications for the banking sector. Currently, our partners are, among others, ING, MBank and Millenium. My duties include solving problems on the style side and developing the development version.
+
 ### Passion and plans for the future :basketball::soccer::football:
 
 On a daily basis I am a huge fan of practicing sports, I especially enjoy playing team sports such as basketball, soccer and American football.
@@ -55,7 +57,7 @@ Technologies that I use on a daily basis:
 </br>
 
 
-**ROOKIE** :star:
+**BASIC KNOWLEDGE** :star::star:
 
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
@@ -70,7 +72,7 @@ Technologies that I use on a daily basis:
 
 # I want to cooperate! :handshake:
 
-I am open to any kind of cooperation. I can easily take up a **free internship**. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
+I am open to work for Your company. I can assure you that I am ambitious and I do not give up easily when it comes to solving a complicated problem.
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
