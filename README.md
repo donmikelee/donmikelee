@@ -12,7 +12,9 @@ I graduated from the Poznań University of Technology with the title of an engin
 
 I graduated from the Kodilla programming school, thanks to which I learned more about technologies and, above all, the methodology of a professional programmer's work.
 
-Actually I work as Junior Frontend Developer for DomData - a company that specializes in creating low code applications for the banking sector. Currently, our partners are, among others, ING, MBank and Millenium. My duties include solving problems on the style side and developing the development version.
+I work as a Frontend Developer at DomData, a company specializing in low-code solutions for the banking sector. My role involves developing and maintaining custom UI components, creating and supporting design themes, and ensuring visual consistency across various products.
+I collaborate closely with the UI/UX team to turn designs into functional interfaces. I also actively participate in client meetings, where we discuss application behavior, usability, and alignment with design objectives.
+With a focus on frontend problem-solving, I contribute to both the look and functionality of the software, enhancing user experience and application performance.
 
 ### Passion and plans for the future :basketball::soccer::football:
 
@@ -25,7 +27,7 @@ Technologies that I use on a daily basis:
 
 <br>
 
-**ADVANCED** :star::star::star::star::star:
+**ADVANCED**
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
@@ -40,31 +42,13 @@ Technologies that I use on a daily basis:
 </br>
 </br>
 
-**INTERMEDIATE** :star::star::star:
+**INTERMEDIATE**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"        alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank">
-
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-**BASIC KNOWLEDGE** :star::star:
-
-
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
 <a/>
-  
+
 </br>
 </br>
 </br>
@@ -72,6 +56,7 @@ Technologies that I use on a daily basis:
 </br>
 </br>
 </br>
+
 
 **TOOLS I CAN USE** 🛠
 
